@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 06 18:23:36 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0165-b0c4-d71d-00000e576d08 
+on database directory /run/media/gabriel/LinuxExtra/trabalho-spark/spark-eclipse/redditAnalysis/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2e0d6270 
+Loaded from file:/opt/apache-spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/run/media/gabriel/LinuxExtra/trabalho-spark/spark-eclipse/redditAnalysis
+os.name=Linux
+os.arch=amd64
+os.version=4.18.3-arch1-1-ARCH
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
